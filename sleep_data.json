@@ -1,0 +1,17 @@
+[
+    {
+        "date": "January 19, 2025",
+        "sleep_hours": 0,
+        "sleep_status": "Underslept"
+    },
+    {
+        "date": "January 19, 2025",
+        "sleep_hours": 8,
+        "sleep_status": "Adequate"
+    },
+    {
+        "date": "January 19, 2025",
+        "sleep_hours": 8,
+        "sleep_status": "Adequate"
+    }
+]

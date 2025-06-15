@@ -38,7 +38,7 @@ pages = {
         {
             "title": "Sleep Tracker",
             "icon": "😴", 
-            "path": BASE_DIR / "sleep" / "app.py"
+            "path": BASE_DIR / "sleep" / "sleep.py"
         },
         {
             "title": "BMI Tracker",
